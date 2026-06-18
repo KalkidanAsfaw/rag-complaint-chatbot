@@ -1,0 +1,38 @@
+# Core data science
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# NLP / chunking
+langchain>=0.2.0
+langchain-text-splitters>=0.2.0
+
+# Embeddings
+sentence-transformers>=2.7.0
+
+# Vector stores
+chromadb>=0.5.0
+faiss-cpu>=1.8.0
+
+# LLM generation
+langchain-community>=0.2.0
+huggingface-hub>=0.23.0
+transformers>=4.41.0
+
+# UI
+gradio>=4.30.0
+
+# Notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.65.0
