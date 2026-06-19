@@ -1,6 +1,7 @@
 # Core data science
 pandas>=2.0.0
 numpy>=1.24.0
+polars>=1.0.0   # fast, memory-efficient CSV scanning for the large CFPB dump
 
 # Visualization
 matplotlib>=3.7.0
